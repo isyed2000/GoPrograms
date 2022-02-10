@@ -1,3 +1,3 @@
-module github.com/isyed2000/GoPrograms/tree/main/GreetingsModule
+module github.com/isyed2000/GoPrograms/GreetingsModule
 
 go 1.17
