@@ -1,4 +1,4 @@
-package GreetingsModule
+package github.com/isyed2000/GoPrograms/tree/main/GreetingsModule
 
 import "fmt"
 
